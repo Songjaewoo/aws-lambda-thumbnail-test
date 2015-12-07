@@ -1,0 +1,37 @@
+{
+  "name": "lambda-create-thumbnail",
+  "version": "0.0.1",
+  "description": "A wrapper of a Lambda package to create an image thumbnail",
+  "main": "CreateThumbnail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "aws-sdk": "^2.0.27",
+    "gm": "^1.17.0"
+  },
+  "_id": "lambda-create-thumbnail@0.0.1",
+  "_shasum": "e0a794dc494d0cb2587e744d55e38ba9c6d49055",
+  "_from": "lambda-create-thumbnail@*",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "nrmitchi",
+    "email": "nrmitchi@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "nrmitchi",
+      "email": "nrmitchi@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "e0a794dc494d0cb2587e744d55e38ba9c6d49055",
+    "tarball": "http://registry.npmjs.org/lambda-create-thumbnail/-/lambda-create-thumbnail-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lambda-create-thumbnail/-/lambda-create-thumbnail-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
